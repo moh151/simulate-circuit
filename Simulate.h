@@ -24,7 +24,6 @@ using namespace std;
 class Simulate : public Action
 {
 private:
-	bool mStopSimulation;
 public:
 	/* Constructor */
 	Simulate(ApplicationManager* pAppMan);
